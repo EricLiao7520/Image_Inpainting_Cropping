@@ -40,7 +40,7 @@ and the required package by following components:
 - [Latent Diffusion Models](https://github.com/CompVis/latent-diffusion)
 
 ## Speed
-Inpainting: 3 to 15 seconds per frame from 360P to 1080P(Tested using a single V100. Cold start time Excluded). 
+Inpainting: 1 to 15 seconds per frame from 360P to 1080P(Tested using a single V100. Cold start time Excluded). 
 
 ## Effect
 1. Original
