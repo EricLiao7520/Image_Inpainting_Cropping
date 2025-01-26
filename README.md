@@ -1,7 +1,9 @@
 # A Subtitle Cropping & Inpainting Solution
 
 
-##Descrption
+## Descrption
+Videos are a valuable resource for training deep neural networks; however, many videos, even those purchased from trusted merchants, include watermarks, logos, or subtitles that can interfere with model performance. These unwanted elements often introduce biases or artifacts, rendering the affected video segments unsuitable for use in training data. This project addresses that challenge by providing a pipeline to automatically detect and remove watermarks or subtitles,ensuring a cleaner dataset and increasing the utilization of available materials for training high-performance neural networks.
+
 ##  Pipeline
 ![pipeline](pipeline_en.png "Logo Title Text")
 ## Get Start
